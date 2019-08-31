@@ -1,2 +1,2 @@
-# parkspot_pi-client
+# Parkspot Pi-client
 Parkspot client software for the raspberry pi
